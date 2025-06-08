@@ -29,7 +29,7 @@ sccore = 0
 max_lost = 3
 lost = 0
 
-goal = 20
+goal = 10
 font.init() 
 font2 = font.SysFont(None, 36)
 font3 = font.SysFont(None, 100)
